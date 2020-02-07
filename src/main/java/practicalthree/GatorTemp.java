@@ -2,7 +2,7 @@ package practicalthree;
 
 /** Implements a temperature check for dormant gators.
  *
- * @author Solution Repository
+ * @author {Your Name Here}
  */
 public class GatorTemp {
 
@@ -10,6 +10,11 @@ public class GatorTemp {
    *
    * @param args The command line arguments
    */
+   
+   /*
+    * TODO: Fix the thermometer the professor dropped!
+    */
+   
        // Print result
      // Create "truthy" test
 public static void main(String[] args) {
